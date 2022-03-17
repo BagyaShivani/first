@@ -16,6 +16,6 @@
     "@octokit/rest": "^17.11.0",
     "express": "^4.17.1",
     "shelljs": "^0.8.4",
-    "simple-git": "^2.6.0"
+    "simple-git": "^3.3.0"
   }
 }
